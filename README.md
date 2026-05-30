@@ -51,4 +51,5 @@ streamlit run app.py
 
 ## Author
 
-Govardhan Chowdary
+Govardhan Golla
+
